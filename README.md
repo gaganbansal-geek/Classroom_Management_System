@@ -1,3 +1,53 @@
+Classroom_Management_System
+This is a college Mini project for Software Engineering
+
+Description of project
+
+This project is based on a classroom Management System similar to Google classroom which we see in real life.
+
+This project consists of Professors, Students users-related kinds of stuff anyone can create classes and join classes using the security key/id provided, Post their Announcements, As we have authenticated login through google so we have better security.
+
+users can see their To-do List and Sync their tasks with google calendar TA's/Professors can assign Assignments and grade them and can have private comments also. Any announcement would come by mail also.
+
+Requirements
+
+We have used React framework, React js, Javascript, Firebase Technologies, and Material UIUI, Visual Studio Code, NPM.
+
+All user id and passwords used in the project:
+
+As we have directly synced it with google authentication you can only sign in with a google account from this user security level increased.
+
+How to install Just you have to clone the project in one folder on your local PC
+
+how to clone the repository from git? You can search this on youtube or google.
+
+when you are done with this.
+
+How to execute etc.
+
+open your folder In visual Studio code. We have made this on visual studio code so it could be easy to access there.
+
+if it is not downloaded?
+
+Search: Visual studio code download
+
+when you are done with this:
+
+Open your VSC with the correct directory and open the folder with VSC. Open terminal: - and see directory if it is proper type:
+
+npm install
+
+it will take 4-8 minutes to install and then type when it installs:-
+
+npm start
+
+the run machine starts and is ready to deploy it, it redirected it to your default browser with https://localhost:3000
+
+IT Starts 😎😃
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
